@@ -1,0 +1,36 @@
+# Index
+
+body {
+background-color : rgb(171,226,120);
+margin : 10px;
+font-family: Verdana, sans-serif;
+}
+
+header {
+text-align: center;
+background-color: rgb(68,172,82);
+color: rgb(255,255,255);
+font-size:200%;
+padding : 5%;
+}
+
+section {
+margin-left: 160px;
+}
+
+nav {
+float: left;
+width: 140px;
+height: 300px;
+text-align: center;
+background-color: rgb(255,255,255);
+}
+
+h3 {
+border: 1px solid rgb(255,0,0);
+}
+
+.style1 {
+font-style: italic;
+font-size: 120%;
+}
